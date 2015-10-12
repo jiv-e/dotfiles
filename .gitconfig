@@ -1,6 +1,6 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+  name = Juho Viitasalo 
+  email = juho.viitasalo@lildrop.com
 [core]
   editor = vi
   excludesfile = ~/.gitignore
